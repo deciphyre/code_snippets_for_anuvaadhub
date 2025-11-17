@@ -1,5 +1,5 @@
-# Code snippets for Anuvaadh
-Given below are code snippets and examples of how to use Anuvaadh Hub apis for respective Models.
+# Code snippets for AnuvaadhHub
+Given below are code snippets and examples of how to use AnuvaadhHub apis for respective Models.
 
 ## Machine Translation
 ### Sending text to MT APIs
